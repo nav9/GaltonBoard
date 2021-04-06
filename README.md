@@ -1,3 +1,5 @@
+![Alt text](galtonBoard.png?raw=true "Galton board")
+  
 # Galton Board
 The quincunx (also known as a Galton board) created in PyMunk.
 
